@@ -11,7 +11,11 @@ header{
     background-color: rgb(0, 150, 240);
 }
 
-.intestazione{
+#logo{
     height: 70px;
     margin-top: 20px;
+}
+
+#intestazione{
+    color: gray;
 }
