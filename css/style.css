@@ -14,16 +14,54 @@ header{
 #logo{
     height: 70px;
     margin-top: 20px;
+    
 }
 
 #intestazione{
     color: gray;
 }
 
-.foto{
-    
+ul{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
-ul{
-    left: 16px;
+table{
+    width: 60%;
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 15px;
+    text-align: center;
+    border-collapse:collapse;
 }
+
+#testo-finale{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#ultimo-titolo{
+    color: gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.foto{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+thead{
+    color:white;
+    background-color: rgb(20, 102, 255);
+}
+
+.colorato{
+    background-color: rgba(0, 183, 255, 0.808);
+
+}
+    
