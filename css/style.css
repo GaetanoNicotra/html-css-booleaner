@@ -6,10 +6,12 @@
 
 header{
     background-image: url(../img/pattern.png);
+    background-size: 400px;
     height: 70px 50px;
-    background-color: rgb(0, 150, 250);
+    background-color: rgb(0, 150, 240);
 }
 
 .intestazione{
-    height: 50px;
+    height: 70px;
+    margin-top: 20px;
 }
